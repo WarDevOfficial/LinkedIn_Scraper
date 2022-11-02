@@ -1,4 +1,4 @@
-# scrape_linkedin
+# LinkedIn_Scraper
 
 ## Introduction
 
